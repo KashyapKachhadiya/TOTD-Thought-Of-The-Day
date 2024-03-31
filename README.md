@@ -18,10 +18,11 @@
 
 **Technical Stack :**
 
-- React
+- ReactJS
 - Material-UI
 - Redux Toolkit 
-- Node
+- NodeJS
+- ExpressJS
 
 **Database :**
 
